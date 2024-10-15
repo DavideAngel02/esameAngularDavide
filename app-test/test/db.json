@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "utente1",
+      "password": "password123"
+    },
+    {
+      "id": "2",
+      "username": "utente2",
+      "password": "password456"
+    }
+  ],
+  "clienti": [
+    {
+      "codiceFiscale": "MRXRSS80A01H501N",
+      "nome": "Sarana",
+      "cognome": "Verdi",
+      "dataNascita": "1985-05-15",
+      "azienda": "555",
+      "userId": null,
+      "id": "2"
+    },
+    {
+      "id": "3477",
+      "codiceFiscale": "sabfbaiofbaoiv",
+      "nome": "uganda",
+      "cognome": "franceschini",
+      "dataNascita": "2024-10-02T22:00:00.000Z",
+      "azienda": "junpit",
+      "userId": "1"
+    },
+    {
+      "id": "1",
+      "codiceFiscale": "RSAMRP78B12H501I",
+      "nome": "Marione",
+      "cognome": "Rossi",
+      "dataNascita": "1980-01-01",
+      "azienda": "h7nh",
+      "userId": null
+    }
+  ]
+}
