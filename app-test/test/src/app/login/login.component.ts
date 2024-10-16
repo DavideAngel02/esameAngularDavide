@@ -13,8 +13,6 @@ import { Router } from '@angular/router';
 })
 export class LoginComponent {
 
-  username: string = '';
-  password: string = '';
 
   loginForm: FormGroup;
   
@@ -25,10 +23,6 @@ export class LoginComponent {
     })
   }
 
-  printValues(): void{
-    console.log('Username:', this.username);
-    console.log('Password:', this.password);
-  }
 
   onSubmit(){
 
@@ -39,7 +33,7 @@ export class LoginComponent {
       next: (user) => {
         if(user){
           // console.log(user);
-          sessionStorage.setItem('userID', user.id.toString())
+          sessionStorage.setItem('userId', user.id.toString())
           this.router.navigate(['/clienti']);
         }
         else {
