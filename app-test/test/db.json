@@ -14,10 +14,10 @@
   "clienti": [
     {
       "codiceFiscale": "MRXRSS80A01H501N",
-      "nome": "Sarana",
-      "cognome": "Verdi",
+      "nome": "Mario",
+      "cognome": "Rossi",
       "dataNascita": "1985-05-15",
-      "azienda": "555",
+      "azienda": "Acme",
       "userId": null,
       "id": "2"
     },
@@ -33,10 +33,10 @@
     {
       "id": "1",
       "codiceFiscale": "RSAMRP78B12H501I",
-      "nome": "Marione",
-      "cognome": "Rossi",
+      "nome": "Giuseppe",
+      "cognome": "Verdi",
       "dataNascita": "1980-01-01",
-      "azienda": "h7nh",
+      "azienda": "Dunut",
       "userId": null
     }
   ]
