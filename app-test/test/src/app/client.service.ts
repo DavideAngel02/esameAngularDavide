@@ -23,7 +23,7 @@ export class ClientService {
   constructor(private http:HttpClient ) { }
 
   getClientById(id: number): Observable<Client[]> {
-    const url = `${this.apiUrl}?${id}`;
+    const url = `${this.apiUrl}?userId=${id}`;
     return this.http.get<Client[]>(url);
   }
 
