@@ -13,31 +13,31 @@
   ],
   "clienti": [
     {
-      "codiceFiscale": "MRXRSS80A01H501N",
-      "nome": "Mario",
-      "cognome": "Rossi",
-      "dataNascita": "1985-05-15",
-      "azienda": "Acme",
-      "userId": null,
-      "id": "2"
+      "id": "4",
+      "codiceFiscale": "XYZXYZ12A34H501G",
+      "nome": "Giovanni",
+      "cognome": "Bianchi",
+      "dataNascita": "1990-12-25",
+      "azienda": "ABC",
+      "userId": "2"
     },
     {
-      "id": "3477",
-      "codiceFiscale": "sabfbaiofbaoiv",
-      "nome": "uganda",
-      "cognome": "franceschini",
-      "dataNascita": "2024-10-02T22:00:00.000Z",
-      "azienda": "junpit",
-      "userId": "1"
+      "id": "5",
+      "codiceFiscale": "DEFDEF45B67H501H",
+      "nome": "Maria",
+      "cognome": "Rossi",
+      "dataNascita": "1985-08-10",
+      "azienda": "XYZ",
+      "userId": "2"
     },
     {
       "id": "1",
       "codiceFiscale": "RSAMRP78B12H501I",
-      "nome": "Giuseppe",
+      "nome": "Lorenzo",
       "cognome": "Verdi",
       "dataNascita": "1980-01-01",
-      "azienda": "Dunut",
-      "userId": null
+      "azienda": "QWERTY",
+      "userId": "1"
     }
   ]
 }
